@@ -1,0 +1,31 @@
+body{
+    background-color: #000000;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+}
+h2{
+    text-decoration: aqua;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+form{
+    width: 420px;
+    height: 400px;
+    margin-top: 40%;
+    background-color: wheat;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+}
+button{
+    width: 80px;
+    border: solid;
+    border-radius: 10px;
+}
